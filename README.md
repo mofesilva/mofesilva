@@ -1,5 +1,4 @@
 ### Hi there 👋. Nice to see you here! Here you will learn a pinch about me!
-##
 My name is Moisés, I´m a brazilian Software Engineer who has started his journey as a developer not too long ago. 
 
 Influenced by my father, a sel taught senior developer and my personal superhero (yeah, that may be cliche but I don´t care), I started learning development with JavaScript and Node.JS. When I was about to learn HTML, CSS and React my father set me on the path to learn Flutter. So I started and I was already employed at my father´s softwarehouse so I got to learn on the go and got things pretty quickly. Within a year I was developing solutions that I myself could not believe.
