@@ -11,7 +11,7 @@ I still have a looooot to learn, but my eagerness to do so is what drives me int
 A few personal projects (trying to spice up my portifolio) but mostly professional projects for Dzign-e Sistema e Tecnolgia LTDA.
 
 ## - 🌱 I’m currently learning...
-Flutter, Node.js, UI/UX Design, HTML, CSS
+Flutter, Node.js, UI/UX Design, HTML, CSS, Tailwind, TypeScript, Next.js, React.js, mongoDB and MySQL
 <!--
 **mofesilva/mofesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
