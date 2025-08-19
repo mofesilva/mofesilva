@@ -8,10 +8,15 @@ Anyway, I have my dad to thank cause my particular path was unorthodox, since he
 I still have a looooot to learn, but my eagerness to do so is what drives me into that direction.
 
 ## 🔭 I’m currently working on...
-A few personal projects (trying to spice up my portifolio) but mostly professional projects for Dzign-e Sistema e Tecnolgia LTDA.
+A few projects for my company Dzign-e Sistemas e Tecnologia, and some personal projects
+
+## My current Stack
+Flutter/Dart, Node.js, MySQL and MongoDB
 
 ## - 🌱 I’m currently learning...
-Flutter, Node.js, UI/UX Design, HTML, CSS, Tailwind, TypeScript, Next.js, React.js, mongoDB and MySQL
+Tailwind CSS, TypeScript, Next.js, React.js and MongoDB
+
+Check out [my website](https://www.mofeverso.com.br)
 <!--
 **mofesilva/mofesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
