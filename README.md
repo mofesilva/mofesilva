@@ -16,7 +16,7 @@ Flutter/Dart, Node.js, MySQL and MongoDB
 ## - 🌱 I’m currently learning...
 Tailwind CSS, TypeScript, Next.js, React.js and MongoDB
 
-Check out [my website](https://www.mofeverso.com.br)
+Check out [my website](mofeverso.com.br)
 <!--
 **mofesilva/mofesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
