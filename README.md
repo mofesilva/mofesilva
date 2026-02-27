@@ -5,7 +5,7 @@ Influenced by my father, a self taught senior developer and my personal superher
 
 After learning HTML, CSS and Javascript, my father set me on the path to learn Flutter. So when I started to learn and I was already involved with my father´s company projects. That being said, I got to learn and practice on the go. Within a couple of years I've already taken the role of developing fully custom solutions by myself.
 
-With 5 years of exeperience, I've taken full responsability for my father's company production.
+With 5 years of exeperience, I've taken full responsability of my father's company production.
 
 Anyway, I have my dad to thank cause my particular path was unorthodox, since he was teaching me practical things and allowing me to contribute to his work, while teaching me the essential theoretical stuff.
 
