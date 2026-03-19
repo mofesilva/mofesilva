@@ -44,13 +44,13 @@ I still have *a lot* to learn—and that’s exactly what keeps me motivated �
 
 ## 📊 GitHub Stats
 
-![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Moisés GitHub stats](https://github-readme-stats.vercel.app/api?username=mofesilva&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofesilva&layout=compact&theme=tokyonight)
 
 ---
 
