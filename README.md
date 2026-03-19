@@ -1,24 +1,42 @@
-### Hi there 👋. Nice to see you here! Here you will learn a pinch about me!
-My name is Moisés, I´m a brazilian Software Engineer who has started his journey as a developer not too long ago. 
+👋 Hi there! Nice to see you here
 
-Influenced by my father, a self taught senior developer and my personal superhero (yeah, that may be cliche but I don´t care), I started learning development with JavaScript and Node.JS. 
+I'm Moisés, a Brazilian Software Engineer who started his development journey not too long ago—but it’s been quite a ride so far.
 
-After learning HTML, CSS and Javascript, my father set me on the path to learn Flutter. So when I started to learn and I was already involved with my father´s company projects. That being said, I got to learn and practice on the go. Within a couple of years I've already taken the role of developing fully custom solutions by myself.
+My path into tech was heavily influenced by my father, a self-taught senior developer (and yes, my personal superhero 😄). Thanks to him, I didn’t just learn theory—I learned by doing.
 
-With 5 years of exeperience, I've taken full responsability of my father's company production.
+I began with JavaScript and Node.js, then moved on to HTML, CSS, and frontend fundamentals. Not long after, my father introduced me to Flutter, and that’s when things really took off. I started contributing directly to real company projects early on, learning in a very hands-on way.
 
-Anyway, I have my dad to thank cause my particular path was unorthodox, since he was teaching me practical things and allowing me to contribute to his work, while teaching me the essential theoretical stuff.
+Within a couple of years, I was already building fully custom solutions on my own. Today, with around 5 years of experience, I’ve taken on full responsibility for production at my father’s company.
 
-I still have a looooot to learn, but my eagerness to do so is what drives me into that direction.
+My journey may not have been traditional, but it gave me something invaluable: practical experience from day one, combined with strong foundational knowledge.
 
-## 🔭 I’m currently working on...
-A set of projects for the company and few personal ones
+I still have a lot to learn—and that’s exactly what keeps me motivated.
 
-## My current Stack
-Flutter/Dart, Node.js, MySQL and MongoDB
+🔭 What I’m working on
 
-## - 🌱 I’m currently learning...
-Tailwind CSS, TypeScript, Next.js, React.js, MongoDB, Docker and Linux Servers
+Company projects (production-level systems)
+
+A few personal projects on the side
+
+🛠️ Current Stack
+
+Frontend / Mobile: Flutter (Dart)
+
+Backend: Node.js
+
+Databases: MySQL, MongoDB
+
+🌱 Currently Learning
+
+Tailwind CSS
+
+TypeScript
+
+Next.js & React.js
+
+Docker
+
+Linux servers
 
 Check out [my website](https://mofeverso.com.br)
 <!--
