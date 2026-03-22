@@ -22,6 +22,50 @@ I still have *a lot* to learn—and that’s exactly what keeps me motivated �
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  
+<table>
+<tr>
+
+<td align="center">
+  <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:12px;">
+    <img src="https://cdn.simpleicons.org/react/61DAFB" width="24"/>
+  </div>
+  <sub>React</sub>
+</td>
+
+<td align="center">
+  <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:12px;">
+    <img src="https://cdn.simpleicons.org/node.js/339933" width="24"/>
+  </div>
+  <sub>Node.js</sub>
+</td>
+
+<td align="center">
+  <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:12px;">
+    <img src="https://cdn.simpleicons.org/mongodb/47A248" width="24"/>
+  </div>
+  <sub>MongoDB</sub>
+</td>
+
+<td align="center">
+  <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:12px;">
+    <img src="https://cdn.simpleicons.org/docker/2496ED" width="24"/>
+  </div>
+  <sub>Docker</sub>
+</td>
+
+<td align="center">
+  <div style="background:#0d1117;border:1px solid #30363d;border-radius:12px;padding:12px;">
+    <img src="https://cdn.simpleicons.org/flutter/02569B" width="24"/>
+  </div>
+  <sub>Flutter</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
