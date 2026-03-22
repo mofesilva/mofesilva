@@ -22,16 +22,16 @@ I still have *a lot* to learn—and that’s exactly what keeps me motivated �
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mysql,mongodb&perline=5" />
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mysql,mongodb,linux&perline=6" />
 </p>
 
 ---
 
 ## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,docker,linux&perline=6" />
+<p align="start">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,docker,vercel&perline=6" />
 </p>
 
 ---
