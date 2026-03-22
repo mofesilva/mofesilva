@@ -22,6 +22,48 @@ I still have *a lot* to learn—and that’s exactly what keeps me motivated �
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
+<div style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB"
+       style="background:#161b22; padding:16px; border-radius:14px; border:1px solid #30363d;" width="48"/>
+  <br/>
+  <sub>React</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/node.js/339933"
+       style="background:#161b22; padding:16px; border-radius:14px; border:1px solid #30363d;" width="48"/>
+  <br/>
+  <sub>Node.js</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248"
+       style="background:#161b22; padding:16px; border-radius:14px; border:1px solid #30363d;" width="48"/>
+  <br/>
+  <sub>MongoDB</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/docker/2496ED"
+       style="background:#161b22; padding:16px; border-radius:14px; border:1px solid #30363d;" width="48"/>
+  <br/>
+  <sub>Docker</sub>
+</div>
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/flutter/02569B"
+       style="background:#161b22; padding:16px; border-radius:14px; border:1px solid #30363d;" width="48"/>
+  <br/>
+  <sub>Flutter</sub>
+</div>
+
+</div>
+</div>
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
