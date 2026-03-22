@@ -23,7 +23,7 @@ I still have *a lot* to learn—and that’s exactly what keeps me motivated �
 ## 🛠️ Tech Stack
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mysql,mongodb,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,mysql,mongodb,linux&perline=6&size=80" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I still have *a lot* to learn—and that’s exactly what keeps me motivated �
 ## 🌱 Currently Learning
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,docker,vercel&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,docker,vercel&perline=6&size=80" />
 </p>
 
 ---
