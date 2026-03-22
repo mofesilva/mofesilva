@@ -31,7 +31,7 @@ I still have *a lot* to learn—and that’s exactly what keeps me motivated �
 ## 🌱 Currently Learning
 
 <p align="start">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,docker,vercel&perline=6&size=80" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,docker,vercel&perline=6&size=80" width="500/>
 </p>
 
 ---
