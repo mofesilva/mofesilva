@@ -53,10 +53,6 @@ I learned programming in a very unconventional way—building real-world solutio
 
 ---
 
-## 🤝 Let's Connect
-*(You can add LinkedIn, portfolio, or email here later)*
-
-
 Check out [my website](https://mofeverso.com.br)
 <!--
 **mofesilva/mofesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
