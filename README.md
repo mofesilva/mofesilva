@@ -42,11 +42,6 @@ I still have *a lot* to learn—and that’s exactly what keeps me motivated �
 
 ---
 
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofesilva&layout=compact&theme=tokyonight)
-
----
 
 ## ⚡ Fun Fact
 I learned programming in a very unconventional way—building real-world solutions from the start instead of just following tutorials.
